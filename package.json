@@ -1,0 +1,19 @@
+{
+  "name": "font-icon-picker",
+  "version": "0.0.1",
+  "title": "Font Icon Picker",
+  "description": "jQuery & fontawesome based icon picker for Meteor",
+  "homepage": "http://codeb.it/fonticonpicker",
+  "author": "Sebastian Sastre <sebastian@flowingconcept.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flowingconcept/meteor-font-icon-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flowingconcept/meteor-font-icon-picker/issues"
+  },
+  "dependencies": {
+    "jquery": "x.*"
+  }
+}
