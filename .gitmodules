@@ -1,0 +1,3 @@
+[submodule "lib/fontIconPicker"]
+	path = lib/fontIconPicker
+	url = git@github.com:micc83/fontIconPicker.git
